@@ -37,7 +37,7 @@
 package net.sourceforge.cruisecontrol.sampleproject.connectfour;
 
 /**
- * Generic class that used by the Playing Stand to represent a cell in the stand.
+ * Generic class that used by the Playing Stand to represent a cell in the first stand.
  */
 public class Cell {
 
